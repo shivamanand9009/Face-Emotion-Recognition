@@ -13,3 +13,6 @@ This project implements a facial emotion recognition system using deep learning 
 - TensorFlow
 - OpenCV
 - NumPy
+
+## OutPut
+![Screenshot (278)](https://github.com/shivamanand9009/Face-Emotion-Recognition/assets/78689810/037840d2-9cff-4dc5-867b-7a7cc6c6614d)
